@@ -15,7 +15,7 @@ A lightweight, external Roblox utility focused on FPS games. Written in C# with 
 | **Silent Aim** | 🚧 In progress | Coming soon |
 | **ESP** | ✅ Working* | Works on games using standard player/character replication. Does **not** support custom player systems (e.g. custom rigs, server-side character replacement). |
 
-\* ESP relies on the standard `Players` → `Character` → `Head`/`HumanoidRootPart` hierarchy. Games that bypass this won't render correctly.
+\* ESP relies on the standard `Players` → `Character` → `Head`/`HumanoidRootPart` hierarchy. Games that bypass this won't render correctly or at all in most cases.
 
 ---
 
