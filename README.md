@@ -38,6 +38,17 @@ A lightweight, external Roblox utility focused on FPS games. Written in C# with 
 | **Stream Proof** | 🚧 Planned | Hide overlay from OBS/Discord/Medal capture |
 | **Anti-Screenshot** | 🚧 Planned | Block Roblox screenshot APIs from capturing overlay |
 | **Auto-Attach** | 🚧 Planned | Auto-detect and attach to Roblox on launch |
+| **Fly / Noclip** | 🚧 Planned | Camera or character flight with adjustable speed (external physics override) |
+| **Speed Hack (WalkSpeed)** | 🚧 Planned | External WalkSpeed write with configurable multiplier and toggle |
+| **Jump Power Modifier** | 🚧 Planned | Adjust JumpPower / JumpHeight for higher jumps |
+| **Teleport (Click-to-Move)** | 🚧 Planned | Click a world position or player to teleport your character there |
+| **Anti-Aim** | 🚧 Planned | Randomised or spin-based camera jitter to break other aimbots |
+| **Third-Person / Camera Unlock** | 🚧 Planned | Detach camera from character (freecam) for scouting |
+| **Auto Rejoin** | 🚧 Planned | Rejoin the same server after disconnect/kick |
+| **Server Hop** | 🚧 Planned | Hop to a new server of the same game |
+| **Ping / FPS Overlay** | 🚧 Planned | Live performance stats in the overlay |
+| **Discord RPC** | 🚧 Planned | Show current game and feature status in Discord rich presence |
+| **Plugin System** | 🚧 Planned | Load external `.dll` modules at runtime for community-made features |
 
 \* ESP relies on the standard `Players` → `Character` → `Head`/`HumanoidRootPart` hierarchy. Games that bypass this won't render correctly.
 
